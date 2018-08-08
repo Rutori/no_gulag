@@ -14,4 +14,5 @@ https://windows.php.net/downloads/releases/php-7.2.8-Win32-VC15-x64.zip
 5. Открываешь командную строку
 6. Вводишь:
 cd C:/php && php no_gulag.php
-
+7. ???
+8. Не сидишь
